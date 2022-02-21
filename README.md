@@ -1,1 +1,1 @@
-ALX School Pre course 
+ALX School, learning by collaboration
